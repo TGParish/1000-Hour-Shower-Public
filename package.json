@@ -1,0 +1,22 @@
+{
+  "name": "1000hourshower-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "gray-matter": "^4.0.3",
+    "mongodb": "^3.6.9",
+    "next": "^11.0.1",
+    "nodemailer": "^6.6.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.10.1",
+    "react-icons": "^4.2.0",
+    "react-markdown": "^6.0.2"
+  }
+}

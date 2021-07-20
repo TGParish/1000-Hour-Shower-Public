@@ -1,0 +1,1 @@
+jsonFeed({"country":"US","state":"CA","stateName":"California","zipcode":"92595","timezone":"America/Los_Angeles","latitude":"33.60560","longitude":"-117.26620","city":"Wildomar","continent":"NA"});

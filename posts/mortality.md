@@ -1,0 +1,29 @@
+---
+title: 'The Importance of Remembering the Finite Nature of Life'
+date: '2021-06-08'
+author: 'Trever Parish'
+image: mortality.jpg
+excerpt: The Importance of reflecting upon death
+isFeatured: true
+---
+
+## “In short, know this: Human Lives are brief and trivial.Yesterday a blob of semen; tomorrow embalming fluid, ash”
+
+## -Marcus Aurelius, Meditations
+
+It is difficult to imagine death. We are remote from it- being that we are currently in the state of living, yet we are connected to it just as we are with life. All things will die. Nothing in life is perceptively infinite or immortal; the world is in a perpetual changing state and most of it is transitory. One day our best friend could die after being hit by a drunk driver, or our dog succumbs to the perils of old age. It is painful to think of these contingencies, but imperative that we reflect on the mortality of ourselves and others to better our perspective of life at hand.
+
+We watch movies, tv shows, and documentaries filled with an onslaught of death, be it fantasy or reality. We have a grotesque fascination with mortality and yet we wish not to think about it actually happening in our lives. We know that the character killed in the movie is only an actor, we know the chance of us or someone we know being murdered by a serial killer is slim- we love looking at death as though it is a fly in amber and not all around us in constant force. What is taboo or scarce is often coveted by humans by nature, yet death is ubiquitous and simply a part of reality; a primordial natural event. It is this denial of death that makes us see life as an endless summer. If you think you’ll live forever and that time is on your side, life seems to lose its value.
+
+The middle ages looked a tad different from our current day. Animals were killed in the street and were typically not seen as a living thing, but a commodity or beast of burden to be utilized. Death was all around and in view for all to see. Plagues ran rampant where in the streets dead bodies piled up in pyres. Executions were public and heads would roll into a basket or into the feet of a crowd member. Although if you watched the news today it seems this is all going on just outside your front door, death is still hidden from us. We do not witness the death of people we love, typically they are in a hospital or remote location. The picture of the mangled face of a shooting victim is not showcased for all to see, but in its place, one of the individual smiling in happier times. We live in death’s shadow and pretend it will only happen in some far away time. This schism betwixt life and death is why we come to have disdain for life and ignore death. One cannot be thankful for what they have if they can’t imagine it being taken away.
+
+# How to think about mortality
+
+That is all very poetic and scary, but what is advantageous in thinking about death? Would that not make us depressed and anxious? It could, but the point of reflecting on death is not to focus on it alone, but how it compares in juxtaposition to life. If you live life like it has no end, it is impossible to fully appreciate it. Life is like one long road trip: in this road trip the car is a 1974 Ford Pinto with a rod knock, the maps you bought from the side of the road are unreadable and confusing, and your mother-in-law is in the back seat tantalizing you about your driving style. To add to the stress, you are not quite sure how to get there, but you do know eventually you will. Knowing there is an end to anything makes you appreciate the journey towards that end. Near death experiences have the same effect on us; we are reminded of how quickly life can be taken away. If someone you loved was almost taken away from you, the realization of how easily their life can end at any moment would become more apparent and you would be less likely to take them from granted in the future. Life is the same way, we get used to it after living so many years, but once it starts slipping away, appreciating the people who live in it and the things that exist within it becomes much easier. “Don't it always seem to go that you don't know what you've got till it's gone”, to quote Joni Mitchell.
+
+# The Indifference of Nature
+
+Life is not an equal measure of fair and cruel, but a grayscale for us to interpret. Life and death are equally scary, but there is plenty to appreciate: connecting with someone on a personal level, practicing your craft, working on that book you’ve always wanted to write, the cooling touch of a lover. If you sat around thinking about the brutality of death all the time, it would be no wonder why your head is in a cloud of misery. The point of reflecting on death is not rumination on it all the time, but juxtaposing it with life and finding the equal balance. I personally follow the 80/20 rule with this: 80% enjoying and appreciating life, 20% coming to terms with death and its finality.
+It is easy to forget about death; we seem to live the same day in repeat, the good times are fickle and far between, we spiral around the same thoughts every day and suffer the same mistake over and over again. This is why I like to have reminders around my house and work area: a resin model of a human skull, a coin with a maxim about life on it, a piece of paper with reminding or thoughtful words from a writer or philosopher.
+
+Above all else, no one gets out of life alive. Why take seriousness in something that has no inherent meaning and that ends so abruptly? Living life to the fullest is a tired and campy axiom, but who lives the better life: someone who goes out and enjoys themselves, creates meaningful things, and worries less, or the person who ruminates all day on something they have no control over? I certainly would take the former! Life is indifferent either way.
